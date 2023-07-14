@@ -1,4 +1,4 @@
-# Auto Chemical Balancig
+# Auto Chemical Balancing
 
 This software runs inside a command line window.
 
