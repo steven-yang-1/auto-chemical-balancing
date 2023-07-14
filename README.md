@@ -21,7 +21,7 @@
 
 # Auto Chemical Balancig
 
-This software runs in a command line window.
+This software runs inside a command line window.
 
 With a powerful syntax engine.
 
