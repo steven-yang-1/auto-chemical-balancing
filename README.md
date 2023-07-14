@@ -17,3 +17,27 @@
 2）请集中注意力输入，注意英文O（欧）和数字0（零）的区别，不要打错了。
 
 3）我没有输入所有的化学元素，如果有需要但是没有包含的元素，请自行补充。
+
+
+# Auto Chemical Balancig
+
+This software runs with a command line window.
+
+With a powerful syntax engine.
+
+Environment and Interpretor: Python 3.11
+
+For example:
+
+Input: C3H8 + O2 ---> CO2 + H2O
+
+Output: C3H8 + 5O2 ---> 3CO2 + 4H2O
+
+Input: CH4 + O2 ---> CO2 + H2O
+
+Output: CH4 + 2O2 ---> CO2 + 2H2O
+
+Input: CaCO3 ---> CaO + CO2
+
+Output: CaCO3 ---> CaO + CO2
+
